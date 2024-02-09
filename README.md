@@ -1,0 +1,1 @@
+The project is a demostration of the skills that I have learned in the previous Odin Project lessons. It will be focused on producing a "recipes" page in HTML.
